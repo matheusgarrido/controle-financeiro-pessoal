@@ -1,0 +1,14 @@
+.cursor:hover {
+  cursor: pointer;
+}
+
+.buttonSelect {
+  margin-right: 'auto';
+  width: '40px';
+  font-weight: 'bold';
+  background-color: 'lightgreen';
+}
+
+.modalOpen {
+  overflow: hidden;
+}
